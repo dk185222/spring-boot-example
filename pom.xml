@@ -7,7 +7,7 @@
 
 	<groupId>com.exc.data</groupId>
 	<artifactId>spring-boot-example</artifactId>
-	<version>1.0-SNAPSHOT</version>
+	<version>1.0</version>
 
 	<name>spring-boot-example</name>
 	<!-- FIXME change it to the project's website -->
