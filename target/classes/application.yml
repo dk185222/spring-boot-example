@@ -1,8 +1,0 @@
-# SERVER
-server:
-  port: 9520
-  servlet:    context-path: /v1/getstock-service
-  
-  
-
- 
