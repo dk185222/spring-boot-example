@@ -30,4 +30,11 @@ public class Rest {
 
 		return new ResponseEntity<String>("Rest call works..!", HttpStatus.OK);
 	}
+
+	@ApiOperation(value = "getStock", notes = "getStock")
+	@RequestMapping(value = "/", method = RequestMethod.GET)
+	public ResponseEntity<String> health() throws Exception {
+
+		return new ResponseEntity<String>("Rest call works..!", HttpStatus.OK);
+	}
 }
